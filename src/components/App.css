@@ -1,0 +1,22 @@
+@import '~antd/dist/antd.css';
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style-type: none;
+  margin-left: 2px;
+  padding: 0;
+}
+
+li {
+  padding: 3px;
+  margin-left: 2px;
+}
+
+.tab {
+  margin: 20px;
+}
